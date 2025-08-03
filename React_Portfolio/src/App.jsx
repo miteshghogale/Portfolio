@@ -3,6 +3,7 @@ import "./App.css";
 import Header from './Componets/Header/Header';
 import Home from './Componets/Home/Home';
 import About from './Componets/About/About';
+import Skills from './Componets/Skills/Skills';
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
     <main className='main'>
       <Home/>
       <About/>
+      <Skills/>
     </main>
     </>
   )
