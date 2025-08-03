@@ -6,8 +6,8 @@ import Backend from './Backend'
 const Skills = () => {
   return (
     <section className="skills section" id="skills">
-        <h2 className="skills_title">Skills</h2>
-        <p className="skills_subtitle">My Technical level</p>
+        <h2 className="services_title-main">Skills</h2>
+        <p className="services_subtitle">My Technical level</p>
 
         <div className="skills_container container grid">
             <Frontend/>
